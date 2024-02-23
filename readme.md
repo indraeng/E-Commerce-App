@@ -1,0 +1,1 @@
+# This is a e-commerce app frontend part with no functionality made with js
